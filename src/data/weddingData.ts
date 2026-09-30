@@ -157,7 +157,7 @@ export const weddingData = {
       father: "Bpk. Bambang Suryo Pratama",
       mother: "Ibu Sri Wahyuni",
       instagram: "@dimaspratama",
-      photo: "public/image/pasangan.jpg",
+      photo: "image/pasangan.jpg",
     } as WeddingCouplePerson,
     bride: {
       name: "Adinda",
@@ -166,7 +166,7 @@ export const weddingData = {
       father: "Bpk. Hendro Wicaksono",
       mother: "Ibu Ratna Dewi",
       instagram: "@adindakrn",
-      photo: "public/image/mempelai wanita.jpg",
+      photo: "image/mempelai wanita.jpg",
     } as WeddingCouplePerson,
     shortNames: "Dimas & Adinda",
   },
