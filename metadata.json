@@ -1,0 +1,6 @@
+{
+  "name": "Template 09 — Cinematic Prewedding | T.M STUDIO",
+  "description": "Undangan pernikahan digital cinematic prewedding premium oleh T.M STUDIO dengan background video prewedding, audio player, RSVP fungsional, dan buku tamu kirim doa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
